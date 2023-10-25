@@ -1,0 +1,5 @@
+{
+	"name": "Django Sample",
+	// Dockerfileでイメージ・コンテナを作成
+	"dockerFile": "Dockerfile"
+}
